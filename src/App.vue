@@ -36,6 +36,9 @@ export default {
 </script>
 
 <style>
+html {
+   background-image: url(./assets/ninja1.jpg);
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
